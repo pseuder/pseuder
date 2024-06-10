@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chainsea](https://www.chainsea.com.tw/)
 
-- 🌱 I’m currently learning **Frontend&Backend Skill**
+- 🌱 I’m currently learning **Frontend&Backend Skills**
 
 - 👨‍💻 All of my projects are available at [https://pseuder.github.io/](https://pseuder.github.io/)
 
