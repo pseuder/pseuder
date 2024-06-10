@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iop890520@gmail.com**
 
-- ⚡ Programming **I dedicate myself to Vue and Python, skilled in building convenient and fast tools and applications for teams.**
+- ⚡ **I dedicate myself to Vue and Python, skilled in building convenient and fast tools and applications for teams.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
